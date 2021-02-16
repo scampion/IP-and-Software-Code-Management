@@ -116,6 +116,45 @@ Free and Open Source Compliance
 ---
 
 
+---
+
+# 🏁 How to monitor your OSS Compliance ? 
+
+## Define your OSS policy 
+## Staffing 
+## Process 
+
+---
+
+# 🛠 Tools and solutions 
+
+## ∙ Community
+### - [clearlydefined](https://clearlydefined.io)
+## ∙ Vendors
+### - [Black Duck](https://www.blackducksoftware.com/)
+### - [White Source](https://www.whitesourcesoftware.com/)
+## ∙ Others
+### - [Software Heritage](https://www.softwareheritage.org)
+
+---
+
+### 🔬 Software Heritage Confidential Scanner
+----------------------------------------------
+https://scan.certcode.eu
+<iframe width="100%" height="70%" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+
+
+---
+
+
+
+
+
+
+
+
+
+
 
 ##### 🔗 Webography
 --------------------
