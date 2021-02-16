@@ -72,7 +72,14 @@ Reminder : [Free & Open-source software licenses previous webinar](https://scamp
 .block-middle.width-90[[![](img/CNBC2.jpg)](https://www.youtube.com/watch?v=SpeDK1TPbew)]
 
 ---
+#Where it can be apply ? 
+------------------------
 
+Mainly when you distribute you product ... 
+
+.float-right.width-47.pt-xxs.pl-xs[![](img/mb2.jpeg)]
+
+---
 class: nord-dark, center, middle
 background-image: url(img/markus-winkler-9XfSFjcwGh0-unsplash2.jpg)
 
@@ -126,26 +133,39 @@ Free and Open Source Compliance
 
 ---
 
-# 🛠 Tools and solutions 
+# 🛠 Tools, standard and solutions 
 
 ## ∙ Community
+### - [OSS Review Toolkit](oss-review-toolkit.org/)
 ### - [clearlydefined](https://clearlydefined.io)
+### - [Fossology](https://www.fossology.org/)
 ## ∙ Vendors
 ### - [Black Duck](https://www.blackducksoftware.com/)
 ### - [White Source](https://www.whitesourcesoftware.com/)
+### - [Dependency Track](https://dependencytrack.org/)
 ## ∙ Others
 ### - [Software Heritage](https://www.softwareheritage.org)
+### - [Eclipse SW360](https://www.eclipse.org/sw360/)
+### - [Open Chain](https://www.openchainproject.org/)
+-     Self-Certify Your Organization
+-     Independent Assessment? Third-Party Certification?
+
+
 
 ---
 
 ### 🔬 Software Heritage Confidential Scanner
 ----------------------------------------------
 https://scan.certcode.eu
-<iframe width="100%" height="70%" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+<iframe width="100%" height="500" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
 
 
 ---
 
+## 🔗 Useful links
+
+### https://compliance.linuxfoundation.org/
+### [Book : OPEN SOURCE COMPLIANCE IN THE ENTERPRISE ](https://www.linuxfoundation.org/wp-content/uploads/OpenSourceComplianceHandbook_2018_2ndEdition_DigitalEdition.pdf)
 
 
 
