@@ -139,11 +139,13 @@ Free and Open Source Compliance
 ### - [OSS Review Toolkit](oss-review-toolkit.org/)
 ### - [clearlydefined](https://clearlydefined.io)
 ### - [Fossology](https://www.fossology.org/)
+### - [TERN](https://github.com/tern-tools/tern) for docker images
 ## ∙ Vendors
 ### - [Black Duck](https://www.blackducksoftware.com/)
 ### - [White Source](https://www.whitesourcesoftware.com/)
 ### - [Dependency Track](https://dependencytrack.org/)
 ## ∙ Others
+### - [REUSE](https://reuse.software/)
 ### - [Software Heritage](https://www.softwareheritage.org)
 ### - [Eclipse SW360](https://www.eclipse.org/sw360/)
 ### - [Open Chain](https://www.openchainproject.org/)
@@ -160,11 +162,30 @@ https://scan.certcode.eu
 <iframe width="100%" height="500" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
 
 
+
+---
+
+## Recommandations
+
+### Communicate with the upstream suppliers in advance
+### Get your suppliers involved with OpenChain
+### Ideas: 
+#### Put penalties for failure to disclose open source software in procurement agreements with suppliers
+#### Or, require permission in advance to deliver components with OSS
+
+### License manifest (should ask your supplier to provides a manifest for ALL the file in the device)
+### Don't do license tracking and source publication as an afterthought 
+
+### Build and verify
+#### "compliance-build" script 
+#### Use docker container or VMs to encapsulate the build environment
+
 ---
 
 ## 🔗 Useful links
 
 ### https://compliance.linuxfoundation.org/
+### https://compliance.linuxfoundation.org/developers/process/
 ### [Book : OPEN SOURCE COMPLIANCE IN THE ENTERPRISE ](https://www.linuxfoundation.org/wp-content/uploads/OpenSourceComplianceHandbook_2018_2ndEdition_DigitalEdition.pdf)
 
 
