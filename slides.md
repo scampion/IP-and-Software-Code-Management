@@ -29,16 +29,55 @@ _______________
 # I'M NOT A 
 ---
 
-# Types of software
+# 🗺 Plan 
+__________
+
+## 1. IP rights relevant to software
+## 2. OSS Compliance 
+
+---
+
+class: nord-dark, center, middle
+
+## A fundamental prerequisite
+## manage your source code
+<br>
+### Objective: easily identify the origin of each line of your software
+---
+
+# ⚙️ Your code source history
+_____________________________
+
+### - Use a version control system like GIT  
+##### ∙ Deploy forge like [Gitlab](https://about.gitlab.com/) or [Gitea](https://gitea.io/) 
+##### ∙ Make it use mandatory
+.float-right.width-52.pt-xxs.pl-xs[![](./img/blame.jpg)]
+
+##### ∙ Use `git blame` to discover who is coding what and why (commit message)
+### - [Sign your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work), use GPG when you commit 
+### - Prohibit third parties copy/paste as much as possible
+##### Use language packaging system like Maven for Java, pip for python etc ... 
+##### ... if not possible, place it in a dedicated folder `third-libs` and check license presence 
+
+---
+
+# [Gource](https://gource.io/) example 
+________________
+
+<iframe width="860" height="515" src="https://www.youtube-nocookie.com/embed/GTMC3g2Xy8c?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+---
+
+# 🆎 Types of software
 _______________________
-## from scratch 
+## from scratch 📝
 ### multinational corporations like Apple or Google can do that kind of software
 [Supreme Court Hears Copyright Battle Between Google and Oracle](https://www.nytimes.com/2020/10/07/us/supreme-court-google-oracle.html)
 <br>
 <br>
 
 
-## coupled to available source code  
+## coupled to available source code ↔️ 
 #### small and medium businesses
 ####  ∙ linked to free and/or open source libraries
 ##### > in that case, you must deploy an OSS Compliance process  
@@ -47,30 +86,12 @@ _______________________
 
 ---
 
-# ⚙️ Best practises
-________________
-
-### - Use a version control system like Git 
-
-#####  ∙ Deploy forge like [Gitlab](https://about.gitlab.com/) or [Gitea](https://gitea.io/) 
-##### ∙ Make it use mandatory
-##### ∙ Source code traceability `git blame` to discover who is coding what 
-### - [Sign your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work) use GPG when you commit 
-### - Prohibit third parties copy/paste as much as possible
-##### Use language packaging system like Maven for Java, pip for python etc ... 
-##### ... otherwise but it in a dedicated folder `third-libs` and check that a license exist 
-
- 
-
-
----
-
 # Four types of IP rights relevant to software
 _________________________________________
-## ∙ patents
-## ∙ copyrights
-## ∙ trade secrets
 ## ∙ trademarks 
+## ∙ patents
+## ∙ trade secrets
+## ∙ copyrights
 ---
 
 # Trademarks
@@ -86,8 +107,28 @@ Debian and Mozilla - a study in trademarks - https://lwn.net/Articles/118268/
 .block-middle.width-30[![](img/mozdeb2.png)]
 ---
 
-## Protect your software 
+# 📜 Patents 
+____________
+
+## EU and US legislation differ 
+## In EU software patents doesn't exists but ... patent could be use to protect your idea.
+In that case, if your technical approach is new, you can decide to create a patent which will describe in terms of 
+input/output and process how to solve an issue. 
+
+Duplicate a software in another language is possible. If it use a patented technic, it's less true. 
+
+Be aware, it works in both side, your idea may be already patented, a prior art search is always useful.
+- [EspaceNet](https://worldwide.espacenet.com/)
+- [PATENTSCOPE](https://www.wipo.int/patentscope/)
+- [Google patents](https://patents.google.com/)
+- [Patent Lens](https://www.lens.org/) 
+
+
+---
+
+## trade secrets 
 -------------------------
+### You need to distribute your Protect your software 
 ### ∙ runtime packer
 - software compresses files and then unpacks itself when a program or file is ready to be executed
 - widely used by malwares difficult to deploy 
