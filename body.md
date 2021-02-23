@@ -399,8 +399,9 @@ The specification is maintained by the CycloneDX Core working group, with origin
 
 ---
 
-##### 🔗 Webography
---------------------
+#### 🔗 Webography
+___________________
+
 .font-xs.nord9[
 Quo Vadis, Open Source? The Limits of Open Source Growth https://arxiv.org/abs/2008.07753
 Free Software Foundation Europe https://fsfe.org/

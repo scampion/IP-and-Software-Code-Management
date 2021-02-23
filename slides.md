@@ -389,32 +389,35 @@ The specification is maintained by the CycloneDX Core working group, with origin
 
 ---
 
-
-## 🔗 Useful links
-
-------------------
-### https://compliance.linuxfoundation.org/
-### https://compliance.linuxfoundation.org/developers/process/
-### [Book : OPEN SOURCE COMPLIANCE IN THE ENTERPRISE ](https://www.linuxfoundation.org/wp-content/uploads/OpenSourceComplianceHandbook_2018_2ndEdition_DigitalEdition.pdf)
+### 📢 Disclaimer
+__________________
+> The information contained in this presentation shall not be considered as the official position of the European Commission and/or the TETRA Consortium partners. Neither the TETRA Consortium partners, nor the European Commission, nor any person acting on behalf of the European Commission or the TETRA Consortium is responsible for the use, which might be made of this presentation.
+ 
 
 ---
 
-##### 🔗 Webography
---------------------
+
+###### 🔗 Useful links & Webography
+__________________
+
+
 .font-xs.nord9[
 Quo Vadis, Open Source? The Limits of Open Source Growth https://arxiv.org/abs/2008.07753
+
 Free Software Foundation Europe https://fsfe.org/
+
 The rise of copyright trolls https://lwn.net/Articles/721458/ 
+
+https://compliance.linuxfoundation.org/
+
+https://compliance.linuxfoundation.org/developers/process/
+
+[Book : OPEN SOURCE COMPLIANCE IN THE ENTERPRISE ](https://www.linuxfoundation.org/wp-content/uploads/OpenSourceComplianceHandbook_2018_2ndEdition_DigitalEdition.pdf)
+
 
 ]
 
----
-
-##### 📢 Disclaimer
---------------------
-> The information contained in this presentation shall not be considered as the official position of the European Commission and/or the TETRA Consortium partners. Neither the TETRA Consortium partners, nor the European Commission, nor any person acting on behalf of the European Commission or the TETRA Consortium is responsible for the use, which might be made of this presentation.
- 
-<br><br>
+<br>
 
 ##### 📷 Credits 
 --------------
@@ -427,15 +430,4 @@ The rise of copyright trolls https://lwn.net/Articles/721458/
 - ◦ Photo by <a href="https://unsplash.com/@isaacmsmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Isaac Smith</a> on <a href="https://unsplash.com/s/photos/growth-graph?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 ]
 
-
 ---
-
-
-
-
-
-
-
-
----
-
