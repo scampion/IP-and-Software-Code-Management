@@ -388,6 +388,23 @@ The specification is maintained by the CycloneDX Core working group, with origin
 <iframe width="100%" height="500" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
 
 ---
+ 
+ # Conclusion & Recommendations 
+ ______________________________
+
+##### 1. **Use the trademark:** : Registered your company and products brands
+##### 2. **If possible, protect your process and write a patent** : avoid trade secret, it will increase your development cost with a moderate protection  
+##### 3. **Make a source code inventory** : identify license with [Fossology](https://www.fossology.org/) or simple [scan](https://scan.certcode.eu/) it with [Software Heritage](https://www.softwareheritage.org/)
+##### 4. **Define your Open Source policy** : use the [OpenChain Methodology and Self-Certification](https://certification.openchainproject.org/) 
+##### 5. **Add copyright and licensing information** : with the SPDX standard and [REUSE](https://reuse.software/)
+##### 6. **Deploy a complianceBuild script in your CI/CD process**: with [REUSE](https://reuse.software/) again 
+##### 7. **Maintain and monitor your process** 
+
+<br>
+<br>
+<br>
+####.center[Thank you 🙏]
+---
 
 ### 📢 Disclaimer
 __________________
