@@ -3,7 +3,7 @@ layout: true
 .font-xs.bold.nord8.letter-spacing-60[IP and Software Code Management]
 ]
 .footnote[
-.font-sm.bold.nord8[sebastien.campion@pm.me
+.font-sm.bold.nord8[[sebastien.campion@pm.me](https://www.linkedin.com/in/sebastien-campion/)
 .ri-creative-commons-line.icon-inline.nord8[]
 .ri-creative-commons-by-line.icon-inline.nord8[]
 .ri-creative-commons-nc-line.icon-inline.nord8[]
@@ -18,6 +18,7 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 ####  
 <br><br><br><br><br>
 .float-right.width-0.pt-xxs.pl-xs[![](img/logo2.png)]
+???
 .letter-spacing-100[DRAFT VERSION]
 ---
 
